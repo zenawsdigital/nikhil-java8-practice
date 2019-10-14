@@ -1,0 +1,13 @@
+target/
+*/target/**
+.settings/
+.classpath
+.project
+pom.xml.versionsBackup
+*.orig
+*.tmp
+*/test-results.xml
+*.orig
+mvn-output.txt
+*.log
+bin/
